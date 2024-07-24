@@ -1,3 +1,2 @@
-# Plane-War
-flappy bird
+# flappy bird
 https://sleepyshark709.github.io/bird/enter.html
